@@ -10,6 +10,8 @@ In this report, I will go through the process of creating a fuzzy system in R. T
 
 In this tutorial I will use the package "sets" for creating the fuzzy system. For more information about “sets”, check out the official documentation at https://cran.r-project.org/web/packages/sets/sets.pdf
 
+Link to the tutorial: http://juandes.github.io/FuzzyLogic-R/docs/fuzzy_tutorial
+
 ## Project
 
 This repository contains a markdown file with the tutorial, an R script with the code used and the HTML version of the report.
